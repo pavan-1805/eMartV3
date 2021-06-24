@@ -1,0 +1,18 @@
+.main{
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+.main-second {
+  flex : 1;
+}
+.product-cont {
+  margin: 10px;
+  padding: 3px 20px;
+  border-radius: 5px;
+  
+  display: inline;
+  position: absolute;
+  right: 0%;
+  right: 0%;
+}
